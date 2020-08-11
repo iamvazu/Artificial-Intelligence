@@ -12,7 +12,7 @@ Multiple cheat-sheets on topics like
 *  [ Deep learning](https://github.com/Niraj-Lunavat/Cheat-Sheets/tree/master/Deep%20Learning)                                                                                                           
 *  [ Python Language](https://github.com/Niraj-Lunavat/Cheat-Sheets/tree/master/Python)                                                                            
 *  [ R language ](https://github.com/Niraj-Lunavat/Cheat-Sheets/tree/master/R%20Language)  
-*  [ Mathes for AI](https://github.com/Niraj-Lunavat/Cheat-Sheets/tree/master/Mathes%20for%20AI)                                        
+*  [ Maths for AI](https://github.com/Niraj-Lunavat/Cheat-Sheets/tree/master/Mathes%20for%20AI)                                        
 *  [ Matlab](https://github.com/Niraj-Lunavat/Cheat-Sheets/tree/master/Matlab)       
 *  [ Neural Network](https://github.com/Niraj-Lunavat/Artificial-Intelligence/tree/master/Neural%20Network)       
 *  [ SQL](https://github.com/Niraj-Lunavat/Cheat-Sheets/tree/master/SQL) and many more
